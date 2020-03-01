@@ -51,4 +51,5 @@ dependencies {
     implementation files('libs/spring-beans-2.5.5.jar')
     implementation files('libs/spring-context-2.5.5.jar')
     implementation files('libs/spring-core-2.5.5.jar')
+    implementation 'com.google.android.material:material:1.0.0'
 }
